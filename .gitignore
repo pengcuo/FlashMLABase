@@ -5,3 +5,6 @@ __pycache__/
 dist/
 *perf.csv
 *.png
+/.vscode
+compile_commands.json
+.cache
